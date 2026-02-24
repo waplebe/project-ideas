@@ -24,7 +24,7 @@
 | 14 | **Habit streak** | Один привычка: отмечаешь день — видишь серию (streak) | | ⬜ |
 | 15 | **One-time secret** | Секрет по ссылке — после первого просмотра удаляется | | ⬜ |
 | 16 | **API status** | Один endpoint — пингует твой сервис и отдаёт OK/Down + latency | | ⬜ |
-| 17 | **Markdown → HTML** | Вставил markdown — красивый HTML, можно скопировать | | ⬜ |
+| 17 | **Markdown → HTML** | Вставил markdown — красивый HTML, можно скопировать | [открыть](https://waplebe.github.io/markdown-to-html/) | ✅ |
 | 18 | **UUID/ULID generator** | Генерация ID для разработки, копирование одним кликом | [открыть](https://waplebe.github.io/uuid-generator/) | ✅ |
 | 19 | **Base64 encode/decode** | Текст ↔ Base64, без отправки на сторонние сервисы | [открыть](https://waplebe.github.io/base64-tool/) | ✅ |
 | 20 | **Color palette** | Подобрал цвет — выдаёт палитру (оттенки, контраст, a11y) | | ⬜ |
