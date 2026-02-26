@@ -13,7 +13,7 @@
 | 3 | **Meeting cost** | Ввёл зарплаты и длительность встречи — показывает стоимость встречи в деньгах | [открыть](https://waplebe.github.io/meeting-cost/) | ✅ |
 | 4 | **Password strength** | Проверка надёжности пароля + генератор (без отправки на сервер) | [открыть](https://waplebe.github.io/password-strength/) | ✅ |
 | 5 | **Cron humanizer** | Вставил cron выражение — показывает по-русски "каждый день в 9:00" | [открыть](https://waplebe.github.io/cron-humanizer/) | ✅ |
-| 6 | **JSON ↔ YAML converter** | Быстро конвертировать конфиги, с валидацией | | ⬜ |
+| 6 | **JSON ↔ YAML converter** | Быстро конвертировать конфиги, с валидацией | [открыть](https://waplebe.github.io/json-yaml-converter/) | ✅ |
 | 7 | **QR menu** | Ресторан: одна ссылка — меню + контакты, печатаешь один QR на стол | | ⬜ |
 | 8 | **Dead link checker** | Вставил URL страницы — проверяет все ссылки на 404 | | ⬜ |
 | 9 | **Timezone meeting** | Выбрал 3–4 города — показывает когда "сейчас 9:00" в каждом | [открыть](https://waplebe.github.io/timezone-meeting/) | ✅ |
@@ -27,7 +27,7 @@
 | 17 | **Markdown → HTML** | Вставил markdown — красивый HTML, можно скопировать | [открыть](https://waplebe.github.io/markdown-to-html/) | ✅ |
 | 18 | **UUID/ULID generator** | Генерация ID для разработки, копирование одним кликом | [открыть](https://waplebe.github.io/uuid-generator/) | ✅ |
 | 19 | **Base64 encode/decode** | Текст ↔ Base64, без отправки на сторонние сервисы | [открыть](https://waplebe.github.io/base64-tool/) | ✅ |
-| 20 | **Color palette** | Подобрал цвет — выдаёт палитру (оттенки, контраст, a11y) | | ⬜ |
+| 20 | **Color palette** | Подобрал цвет — выдаёт палитру (оттенки, контраст, a11y) | [открыть](https://waplebe.github.io/color-palette/) | ✅ |
 
 ---
 
